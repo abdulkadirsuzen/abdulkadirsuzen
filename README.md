@@ -22,10 +22,8 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
 </div>
 
+<br><br>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abdulkadirsuzen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadirsuzen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
