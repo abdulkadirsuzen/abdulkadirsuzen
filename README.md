@@ -1,4 +1,4 @@
-# 💫 Hi there I am Kadir 🥷 !!!
+# 💫 Hi there I am Kadir !!!
 👨‍💻 I’m currently Umschüler-Newbiee but soon⌛Software Developer...<br/>
 🌱 Currently learning: C# and Java.<br/> 
 📫 How to reach me: Drop me a message via abdulkadirsuezen@gmail.com, LinkedIn www.linkedin.com/in/abdulkadir-süzen-, or maybe send me some positive vibes on GitHub.<br/>
